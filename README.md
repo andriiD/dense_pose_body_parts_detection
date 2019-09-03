@@ -39,7 +39,7 @@ Conversion of densepose annotations for the body parts detection and segmentatio
   ![`Picture`](body_parts.png)
  
  
- You can use my code for commercial projects but the dataset is created research-only license.  
+ You can use my code for commercial projects but the dataset is created with research-only license.  
  
  Citations:
  
